@@ -326,7 +326,7 @@ h1, h2, h3, h4, h5, h6, figure {
           font-weight: 700; }
           @media screen and (max-width: 768px) {
             #ftco-hero .flexslider .slider-text > .slider-text-inner h1 {
-              font-size: 34px; } }
+              font-size: 18px; } }
         #ftco-hero .flexslider .slider-text > .slider-text-inner h2 {
           font-size: 18px;
           line-height: 1.5;

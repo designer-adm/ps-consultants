@@ -1402,3 +1402,11 @@ h1, h2, h3, h4, h5, h6, figure {
   .post-meta a {
     color: #fff;
     border-bottom: 1px solid rgba(255, 255, 255, 0.5); }
+
+
+    .new-sec{
+      display: flex;
+      justify-content: center;
+      /* text-align: center; */
+      flex-wrap: wrap;
+    }

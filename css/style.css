@@ -361,7 +361,7 @@ h1, h2, h3, h4, h5, h6, figure {
   background: rgba(0, 0, 0, 0.05); }
 
 #ftco-about,
-.ftco-practice,
+
 #ftco-testimonial,
 #ftco-started,
 #ftco-blog,
@@ -1258,7 +1258,7 @@ h1, h2, h3, h4, h5, h6, figure {
   opacity: 0; }
 
 .site-section {
-  padding: 7em 0; }
+  padding: 7em 0 0 0; }
 
 .gallery-item {
   position: relative;

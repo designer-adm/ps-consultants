@@ -385,7 +385,15 @@ h1, h2, h3, h4, h5, h6, figure {
 #ftco-counter {
   padding: 4em 0;
   clear: both; }
-
+ @media screen and (max-width: 768px) {
+    #ftco-about,
+    .ftco-practice,
+    #ftco-testimonial,
+    #ftco-started,
+    #ftco-blog,
+    #ftco-contact,
+    #ftco-footer {
+      padding: 3em 0; } }
 .ftco-counters {
   padding: 3em 0;
   background-size: cover;
@@ -543,7 +551,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding: 30px;
   margin-bottom: 60px;
   background: #fff;
-  border: 1px solid rgba(0, 0, 0, 0.07);
+  border: 1px solid #3f52e3;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s; }

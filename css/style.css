@@ -1421,3 +1421,14 @@ h1, h2, h3, h4, h5, h6, figure {
       /* text-align: center; */
       flex-wrap: wrap;
     }
+
+    @media (min-width: 1200px){
+    .container-w {
+      width: 1770px;
+      padding-left: 30em;
+  }}
+  @media (min-width: 1080px){
+    .container-w {
+      width: 1770px;
+      padding-left: 9em;
+  }}
